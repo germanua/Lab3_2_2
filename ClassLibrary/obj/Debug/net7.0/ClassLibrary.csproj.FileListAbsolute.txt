@@ -1,0 +1,12 @@
+/Users/mac/RiderProjects/Lab3_2_2/ClassLibrary/bin/Debug/net7.0/ClassLibrary.deps.json
+/Users/mac/RiderProjects/Lab3_2_2/ClassLibrary/bin/Debug/net7.0/ClassLibrary.dll
+/Users/mac/RiderProjects/Lab3_2_2/ClassLibrary/bin/Debug/net7.0/ClassLibrary.pdb
+/Users/mac/RiderProjects/Lab3_2_2/ClassLibrary/obj/Debug/net7.0/ClassLibrary.csproj.AssemblyReference.cache
+/Users/mac/RiderProjects/Lab3_2_2/ClassLibrary/obj/Debug/net7.0/ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/Lab3_2_2/ClassLibrary/obj/Debug/net7.0/ClassLibrary.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/Lab3_2_2/ClassLibrary/obj/Debug/net7.0/ClassLibrary.AssemblyInfo.cs
+/Users/mac/RiderProjects/Lab3_2_2/ClassLibrary/obj/Debug/net7.0/ClassLibrary.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab3_2_2/ClassLibrary/obj/Debug/net7.0/ClassLibrary.dll
+/Users/mac/RiderProjects/Lab3_2_2/ClassLibrary/obj/Debug/net7.0/refint/ClassLibrary.dll
+/Users/mac/RiderProjects/Lab3_2_2/ClassLibrary/obj/Debug/net7.0/ClassLibrary.pdb
+/Users/mac/RiderProjects/Lab3_2_2/ClassLibrary/obj/Debug/net7.0/ref/ClassLibrary.dll

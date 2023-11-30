@@ -1,0 +1,12 @@
+/Users/mac/RiderProjects/Lab3_2_2/Tree/bin/Debug/net7.0/Tree.deps.json
+/Users/mac/RiderProjects/Lab3_2_2/Tree/bin/Debug/net7.0/Tree.dll
+/Users/mac/RiderProjects/Lab3_2_2/Tree/bin/Debug/net7.0/Tree.pdb
+/Users/mac/RiderProjects/Lab3_2_2/Tree/obj/Debug/net7.0/Tree.csproj.AssemblyReference.cache
+/Users/mac/RiderProjects/Lab3_2_2/Tree/obj/Debug/net7.0/Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/Lab3_2_2/Tree/obj/Debug/net7.0/Tree.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/Lab3_2_2/Tree/obj/Debug/net7.0/Tree.AssemblyInfo.cs
+/Users/mac/RiderProjects/Lab3_2_2/Tree/obj/Debug/net7.0/Tree.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab3_2_2/Tree/obj/Debug/net7.0/Tree.dll
+/Users/mac/RiderProjects/Lab3_2_2/Tree/obj/Debug/net7.0/refint/Tree.dll
+/Users/mac/RiderProjects/Lab3_2_2/Tree/obj/Debug/net7.0/Tree.pdb
+/Users/mac/RiderProjects/Lab3_2_2/Tree/obj/Debug/net7.0/ref/Tree.dll
